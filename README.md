@@ -11,6 +11,11 @@ Fresh-News is a `Kotlin` based android application which gives a user regularly-
 * Volley
 * JSON Parsing
 
+## Run App
+
+https://appetize.io/app/kc7gu48dh0eqyruaw0bptnr0bc?device=pixel4&scale=75&orientation=portrait&osVersion=10.0&deviceColor=black
+
+
 ## App-Screenshots
 
 <a href="">
