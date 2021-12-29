@@ -9,6 +9,7 @@ Fresh-News is a **`Kotlin`** based android application which gives a user regula
 * Glide
 * Postman API
 * Volley
+* JSON Parsing
 
 ## Run App
 
