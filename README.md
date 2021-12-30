@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1WxqDUFbU6SZYWplUEZa58uiIeFV1fMF5/view?usp=shari
 
 ## Benefits
 
-It helps to read all the top headlines news of all platform and all the categories( like business, entertainment, general, health, science, sports and technology) in one app.
+It helps to read all the top headlines news of all platform and all the categories( like business, entertainment, general, health, science, sports and technology) in one app. And it shows the news with title, image and author name in recycler view.
 
 ## App-Screenshots
 
