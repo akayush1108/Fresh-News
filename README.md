@@ -17,6 +17,12 @@ Fresh-News is a **`Kotlin`** based android application which gives a user regula
 https://appetize.io/app/kc7gu48dh0eqyruaw0bptnr0bc?device=pixel4&scale=75&orientation=portrait&osVersion=10.0&deviceColor=black
 
 
+## App Link
+
+[Uploading app-debug.apk…]()
+
+
+
 ## App-Screenshots
 
 <a href="">
