@@ -4,6 +4,7 @@ Fresh-News is a **`Kotlin`** based android application which gives a user regula
 ## Features
 
 * RecyclerView
+* Constraint Layout
 * Intent
 * Custom Tabs
 * Glide
