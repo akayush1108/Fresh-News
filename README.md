@@ -14,14 +14,17 @@ Fresh-News is a **`Kotlin`** based android application which gives a user regula
 
 ## Run App
 
-https://appetize.io/app/kc7gu48dh0eqyruaw0bptnr0bc?device=pixel4&scale=75&orientation=portrait&osVersion=10.0&deviceColor=black
+[Click here](https://appetize.io/app/kc7gu48dh0eqyruaw0bptnr0bc?device=pixel4&scale=75&orientation=portrait&osVersion=10.0&deviceColor=black "LCO")
 
 
-## App Link
+## Application Link
 
-[Uploading app-debug.apk…]()
+https://drive.google.com/file/d/1WxqDUFbU6SZYWplUEZa58uiIeFV1fMF5/view?usp=sharing
 
 
+## Benefits
+
+It helps to read all the top headlines news of all platform and all the categories( like business, entertainment, general, health, science, sports and technology) in one app.
 
 ## App-Screenshots
 
