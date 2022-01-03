@@ -15,6 +15,7 @@
         android:gravity="center"
         android:inputType="none"
         android:text="@string/fresh_news"
+        android:editable="false"
         android:textColor="@color/teal_700"
         android:textColorLink="#FFF"
         android:textSize="24sp"
