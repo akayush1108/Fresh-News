@@ -1,56 +1,39 @@
-# Fresh-News
-Fresh-News is a **`Kotlin`** based android application which gives a user regularly-updated news from the internet by making an [API](https://en.wikipedia.org/wiki/API/ "LCO") call and display the news title, image, description and author name in the recycler view. On clicking news image or title it will show the full news article with the help of `Custom Tabs`. In this project use [Postman API](https://documenter.getpostman.com/view/3479169/Szf7zncp/ "LCO"). This is a well maintained API which returns information in a `JSON` format.
+# Android-Study-Jams
 
-## Features
+**Fresh-News App**
 
-* RecyclerView
-* Constraint Layout
-* Intent
-* Custom Tabs
-* Glide
-* Postman API
-* Volley
-* JSON Parsing
+**Problem Statement :**
 
-## Run App
+Many of the family members and residents of the neighborhood were not able to get the current news during the lockdown period, so I decided to build a news application. In the current scenario, a mobile application is one of the major developments that anyone can use.
 
-[Click here](https://appetize.io/app/kc7gu48dh0eqyruaw0bptnr0bc?device=pixel4&scale=75&orientation=portrait&osVersion=10.0&deviceColor=black "LCO")
+**Proposed Solution :**
+
+This project proposes a “News-App” which gives a user regularly-updated news from the internet by making an API call and displaying the news title, image, description, and author name in the recycler view. On clicking news image or title it will show the full news article with the help of Custom Tabs. This project uses Postman API. This is a well-maintained API that returns information in a JSON format.
+
+![LCO Mascot](https://github.com/akayush1108/Fresh-News/blob/master/Screenshots/picture.jpg "LCO")
 
 
-## Application Link
 
-https://drive.google.com/file/d/1WxqDUFbU6SZYWplUEZa58uiIeFV1fMF5/view?usp=sharing
+**Functionality & Concepts used :**
+
+* RecyclerView : To present the list of different platform news in a scrollable mode in an efficient way. Postman API: we are also using the Postman News API free version. 
+  *	Adapter : It provides a binding from an app specific data set to views that are displayed within a RecyclerView.
+  *	ViewHolder: Holding the XML code.
+  *	Layout manager: It arrange the items of the list.
+
+* Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+
+* Custom Tabs : In this application we use chrome custom tabs gives more control over their web experience and make transition between native and web content more seamless without having to resort to a WebView.
+
+* Glide : We are also using Glide library to load and display images from many sources and is a library that is recommended by Google.
+
+* Volley : It makes networking very easy and fast for this app.
 
 
-## Benefits
 
-It helps to read all the top headlines news of all platform and all the categories( like business, entertainment, general, health, science, sports and technology) in one app. And it shows the news with title, image and author name in recycler view.
+**Application Link & Future Scope :**
 
-## App-Screenshots
+Link : [click here](https://drive.google.com/file/d/1WxqDUFbU6SZYWplUEZa58uiIeFV1fMF5/view?usp=sharing "LCO")
 
-<a href="">
-<img src="https://github.com/akayush1108/Fresh-News/blob/master/Screenshots/Screenshot_1.png"
-align="left"
-height="500"
-width="250">
-<img src="https://github.com/akayush1108/Fresh-News/blob/master/Screenshots/Screenshot_2.png"
-align="left"
-height="500"
-width="250">
-<img src="https://github.com/akayush1108/Fresh-News/blob/master/Screenshots/Screenshot_3.png"
-align="left"
-height="500"
-width="250">
-<img src="https://github.com/akayush1108/Fresh-News/blob/master/Screenshots/Screenshot_4.png"
-align="left"
-height="500"
-width="250">
-<img src="https://github.com/akayush1108/Fresh-News/blob/master/Screenshots/Screenshot_5.png"
-align="left"
-height="500"
-width="250">
-<img src="https://github.com/akayush1108/Fresh-News/blob/master/Screenshots/Screenshot_6.png"
-align="left"
-height="500"
-width="250">
-</a>
+Once the app is successfully tested and buying the API, we uploaded it on the Play Store. And trying to collaborate with other news service team. And also we are planning to add some new features for user convenience to choose a specific news topics.
+
