@@ -35,5 +35,5 @@ This project proposes a “News-App” which gives a user regularly-updated news
 
 Link : [click here](https://drive.google.com/file/d/1WxqDUFbU6SZYWplUEZa58uiIeFV1fMF5/view?usp=sharing "LCO")
 
-Once the app is successfully tested and buying the API, we uploaded it on the Play Store. And trying to collaborate with other news service team. And also we are planning to add some new features for user convenience to choose a specific news topics.
+Once the app is successfully completed we are thinking to purchase an API for it and upload it to Play Store as well. And trying to collaborate with other news service team. And also we are planning to add some new features for user convenience to choose a specific news topics.
 
