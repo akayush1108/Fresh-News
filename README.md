@@ -1,6 +1,6 @@
-# Android-Study-Jams
+# Fresh-News
 
-**Fresh-News App**
+**Fresh News Application**
 
 **Problem Statement :**
 
