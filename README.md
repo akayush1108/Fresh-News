@@ -1,4 +1,4 @@
-# Fresh-News
+# Android-Study-Jams
 
 **Fresh News Application**
 
