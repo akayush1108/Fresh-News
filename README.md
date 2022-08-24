@@ -33,6 +33,10 @@ This project proposes a “News-App” which gives a user regularly-updated news
 
 **Application Link & Future Scope :**
 
+## Run App
+
+[Click here](https://appetize.io/app/kc7gu48dh0eqyruaw0bptnr0bc?device=pixel4&scale=75&orientation=portrait&osVersion=10.0&deviceColor=black "LCO")
+
 Link : [click here](https://drive.google.com/file/d/1WxqDUFbU6SZYWplUEZa58uiIeFV1fMF5/view?usp=sharing "LCO")
 
 Once the app is successfully completed we are thinking to purchase an API for it and upload it to Play Store as well. And trying to collaborate with other news service team. And also we are planning to add some new features for user convenience to choose a specific news topics.
